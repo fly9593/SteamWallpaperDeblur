@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         SteamWallpaperDeblur
 // @namespace    http://tampermonkey.net/
-// @version      0.5
-// @description  Removes blur effect from adult content images in Steam Wallpaper workshop
+// @version      0.51
+// @description  移除Wallpaper Engine创意工坊中R18壁纸的缩略图模糊效果。(Removes blur effect from adult content images in Steam Wallpaper Engine workshop)
 // @author       fly9593
 // @match        https://steamcommunity.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com
